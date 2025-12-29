@@ -1,0 +1,4 @@
+- walthrough of the code, where was gpu used vs cpu in the code
+- what is the advatnage of using the gpu over the cpu. Comparing the two
+using two varibles size of elements, the level of imbalance
+- What gave me trouble and what would I add If I had more time 
